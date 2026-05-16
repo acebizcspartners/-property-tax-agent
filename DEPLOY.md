@@ -12,7 +12,7 @@ Reference for getting the site live at `propertytaxagent.com` and configured for
 - ❌ DNS for `propertytaxagent.com` not pointed yet
 - ❌ Google Search Console + Google Business Profile not yet claimed
 
-Phone CTAs route to `0431 516 784`. Schema.org JSON-LD targets Hills District + Central Coast NSW for the local pack.
+Phone CTAs route to `0431 516 783`. Schema.org JSON-LD targets Hills District + Central Coast NSW for the local pack.
 
 ---
 
@@ -101,7 +101,7 @@ The site is pure static HTML/CSS/JS. Any of these will host it for free.
 1. [google.com/business](https://google.com/business) → Add business.
 2. Trading name: `Property Tax Agent` (or whatever shows on the site).
 3. Address: `Suite 204, 11 Solent Circuit, Norwest NSW 2153`.
-4. Phone: `0431 516 784`. Hours: Mon–Fri 9am–5pm.
+4. Phone: `0431 516 783`. Hours: Mon–Fri 9am–5pm.
 5. Category: **Tax preparation service** + **Accountant** + **Financial consultant**.
 6. Verification by postcard takes 5–14 days.
 
@@ -150,7 +150,7 @@ If you've connected the repo to Cloudflare / Vercel / Netlify, the push auto-dep
 | Branch | `main` |
 | Local path | `C:\Users\AnkitKulshrestha\propertytaxagent.com` |
 | Domain | `propertytaxagent.com` (not yet purchased / pointed) |
-| Phone | `0431 516 784` (international: `+61 431 516 784`) |
+| Phone | `0431 516 783` (international: `+61 431 516 783`) |
 | Email | `admin@acebiz.com.au` |
 | Office | Suite 204, 11 Solent Circuit, Norwest NSW 2153 |
 | Parent firm | Ace Biz — ABN 89 168 839 076 |
